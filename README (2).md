@@ -88,3 +88,25 @@ function ver ()
    include('views/productos_ver.php');
 }
 ~~~
+
+
+# Vista
+
+Vista: La vista es la presentación al usuario de la información contenida en el modelo. Esto generalmente consiste en pantallas que contienen información del modelo. Los datos pueden mostrarse en campos, en ventanas de editor, en tablas, etc. Además, los datos pueden ser de solo lectura o pueden ser editables.
+
+### Ejemplo 
+~~~
+<html>
+   <head>
+      <title>ABARROTES JUAN</title>
+   </head>
+   <body>
+     <h1>productos dados de alta en nuestra tienda</h1>
+     <table border="1">
+        <tr>
+           <th>NOMBRE</th>
+           <th>PRECIO</th>
+        </tr>
+~~~
+
+![ Imagen ](https://th.bing.com/th/id/R.da1acec1594bcae30786fae5fcb9e49a?rik=85Hv9Uw7xALbEQ&riu=http%3a%2f%2fwww.microsiervos.com%2fimages%2fAmazonES-home.jpg&ehk=jAsgTgsSYBezIYZ%2b860Ssd%2fzBPo7P91hsWwEPsoAxy4%3d&risl=&pid=ImgRaw&r=0)
