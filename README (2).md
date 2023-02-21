@@ -110,3 +110,13 @@ Vista: La vista es la presentación al usuario de la información contenida en e
 ~~~
 
 ![ Imagen ](https://th.bing.com/th/id/R.da1acec1594bcae30786fae5fcb9e49a?rik=85Hv9Uw7xALbEQ&riu=http%3a%2f%2fwww.microsiervos.com%2fimages%2fAmazonES-home.jpg&ehk=jAsgTgsSYBezIYZ%2b860Ssd%2fzBPo7P91hsWwEPsoAxy4%3d&risl=&pid=ImgRaw&r=0)
+
+## Controlador
+
+#### Lógica de negocio / Lógica de la aplicación
+
+Es un conjunto de reglas que se siguen en el software para reaccionar ante distintas situaciones. En una aplicación el usuario se comunica con el sistema por medio de una interfaz, pero cuando acciona esa interfaz para realizar acciones con el programa, se ejecutan una serie de procesos que se conocen como la lógica del negocio. Este es un concepto de desarrollo de software en general.
+
+La lógica del negocio, aparte de marcar un comportamiento cuando ocurren cosas dentro de un software, también tiene normas sobre lo que se puede hacer y lo que no se puede hacer. Eso también se conoce como reglas del negocio. Bien, pues en el MVC la lógica del negocio queda del lado de los modelos. Ellos son los que deben saber cómo operar en diversas situaciones y las cosas que pueden permitir que ocurran en el proceso de ejecución de una aplicación.
+
+![imagen](https://desarrolloweb.com/archivoimg/general/2758.jpg)
